@@ -1,0 +1,2 @@
+echo "Jeg er syyyyyyygt bash nu
+TAK MAKKER"420
