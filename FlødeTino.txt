@@ -1,2 +1,3 @@
 echo "Jeg er syyyyyyygt bash nu
 TAK MAKKER"420
+Dette er Troels som ikke er bash endnu
